@@ -21,7 +21,10 @@
         <p style="color:#FFFFFF">hello</p>
       </main>
     <footer>
-      <audio src="bgm.mp3" controls autoplay loop />
+      <iframe src="bgm.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
+      <audio id="audio" autoplay>
+      <source src="bgm.mp3">
+      </audio>
     </footer>
   </body>
 </html>
