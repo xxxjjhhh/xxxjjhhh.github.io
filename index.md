@@ -5,6 +5,8 @@
 
 Contact Me : xxxjjhhh@naver.com
 
+
+***
 연혁
 ---
 
@@ -16,6 +18,7 @@ Contact Me : xxxjjhhh@naver.com
 |2015.03.02 ~ 2018.02.08|경상대학교 사범대학 부설 고등학교|졸업|
 
 
+***
 자격사항
 -------
 
@@ -25,6 +28,7 @@ Contact Me : xxxjjhhh@naver.com
 |NCS직업기초능력 수리능력|한국기술교육대학교|수료|
 
 
+***
 수상내역
 -------
 
@@ -35,7 +39,7 @@ Contact Me : xxxjjhhh@naver.com
 |2020 서울영상광고제 YCA|tvcf|파이널리스트|
 
 
-
+***
 활동
 -------
 
