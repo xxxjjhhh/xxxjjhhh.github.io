@@ -39,7 +39,7 @@ Contact Me : xxxjjhhh@naver.com
 |활동명|주최|비고|
 |:---:|:---:|:---:|
 |슬기로운 대학생활 공모전|전북대학교 전자공학부|우수상|
-|2020 서울영상광고제 YCA|tvcf|파이널리스트|
+|2020 서울영상광고제 YCA|tvcf|[파이널리스트](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/asset/images/tvcf%202020%20%ED%8C%8C%EC%9D%B4%EB%84%90%EB%A6%AC%EC%8A%A4%ED%8A%B8.jpg)|
 
 
 
