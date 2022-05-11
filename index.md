@@ -27,7 +27,7 @@ Contact Me : xxxjjhhh@naver.com
 |자격증|기관|비고|
 |:---:|:---:|:---:|
 ||||
-|NCS직업기초능력 수리능력|한국기술교육대학교|수료|
+|NCS직업기초능력 수리능력|한국기술교육대학교|[수료](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/asset/images/3.jpg)|
 
 
 
