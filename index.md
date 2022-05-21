@@ -37,7 +37,7 @@
 수상/활동
 ---
 + 전북대학교
-  + 전공 블로그 운영 (네이버 : https://blog.naver.com/makeflood)
+  + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
 
 학력
 ---
