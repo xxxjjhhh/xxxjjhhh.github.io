@@ -27,8 +27,8 @@
 기술
 ---
 + 언어 : C/C++
-+ 스크립트 : Python, Markdown, zsh
-+ 웹스크립트 : html/CSS
++ 스크립트 : Python, zsh
++ 웹스크립트 : html/CSS, Markdown
 + 데이터 : 
 + 버전관리 : Git
 + 하드웨어 : 컴퓨터구조(RISC - V), 디지털공학, 운영체제
