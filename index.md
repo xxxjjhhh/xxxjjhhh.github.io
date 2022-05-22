@@ -34,7 +34,7 @@
 + 하드웨어 : 컴퓨터구조(RISC - V), 디지털공학, 운영체제
 
 
-수상/활동
+상벌/활동
 ---
 + 전북대학교
   + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
