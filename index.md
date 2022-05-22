@@ -26,7 +26,7 @@
 
 기술
 ---
-+ 언어 : C/C++, 
++ 언어 : C/C++, Java
 + 스크립트 : Python, zsh
 + 웹스크립트 : html/CSS, Markdown
 + 데이터 : 
