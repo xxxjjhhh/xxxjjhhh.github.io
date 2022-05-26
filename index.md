@@ -22,8 +22,8 @@
 ---
  
  + 전북대학교 2018.03 ~ 2018.12 & 2021.03 ~
-  + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
-  + C언어 개념서 제작
+    + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
+    + C언어 개념서 제작
 
 기술
 ---
