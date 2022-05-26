@@ -22,7 +22,8 @@
 ---
  
  + 전북대학교 2018.03 ~ 2018.12 & 2021.03 ~
- 
+  + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
+  + C언어 개념서 제작
 
 기술
 ---
@@ -31,13 +32,13 @@
 + 웹스크립트 : html/CSS, Markdown
 + 데이터 : 
 + 버전관리 : Git
-+ 하드웨어 : 컴퓨터구조(RISC - V), 디지털공학, 운영체제
++ 기타 : 
 
 
-상벌/활동
+상벌/교육
 ---
 + 전북대학교
-  + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
+
 
 학력
 ---
