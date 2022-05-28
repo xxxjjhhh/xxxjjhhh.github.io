@@ -21,10 +21,10 @@
 경력
 ---
  
- + 전북대학교 2018.03 ~ 2018.12 & 2021.03 ~
++ 전북대학교 2018.03 ~ 2018.12 & 2021.03 ~
     + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
     + C언어 개념서 제작
-    + 전자공학부 공모전 ([수상](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/asset/images/2.jpg))
+
     
 
 기술
@@ -40,7 +40,8 @@
 상벌/교육
 ---
 + 전북대학교
-
+    + 전자공학부 공모전 ([수상](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/asset/images/2.jpg))
+    
 
 학력
 ---
