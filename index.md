@@ -40,7 +40,7 @@
 상벌/교육
 ---
 + 전북대학교
-    + 전자공학부 공모전 ([수상](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/asset/images/2.jpg))
+    + 전자공학부 공모전 ([수상]([https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/asset/images/2.jpg](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/resume/asset/1.jpg)))
     
 
 학력
