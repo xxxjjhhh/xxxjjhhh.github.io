@@ -26,7 +26,7 @@
         + C : FCFS, SJF, RR
     + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
     + C언어 개념서 제작 ([Make "C" pdf](https://blog.naver.com/makeflood/222764232015))
-        + 교재를 통한 스터디 강의
+        + 교재를 통한 스터디 강의 진행
 
     
 
