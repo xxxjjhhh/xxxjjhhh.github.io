@@ -33,8 +33,8 @@
 기술
 ---
 + 언어 : C/C++, Java
-+ 스크립트 : Python, zsh
-+ 웹스크립트 : html/CSS, Node.js
++ 스크립트 : Python, zsh, Html/CSS, Node.js
++ 서버스크립트 :
 + 데이터 : 
 + 버전관리 : Git
 + 기타 : Markdown
