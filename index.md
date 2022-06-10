@@ -34,10 +34,10 @@
 ---
 + 언어 : C/C++, Java
 + 스크립트 : Python, zsh
-+ 웹스크립트 : html/CSS, Markdown, Node.js
++ 웹스크립트 : html/CSS, Node.js
 + 데이터 : 
 + 버전관리 : Git
-+ 기타 : 
++ 기타 : Markdown
 
 
 상벌/교육
