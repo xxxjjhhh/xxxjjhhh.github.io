@@ -22,12 +22,12 @@
 ---
  
 + 전북대학교 2018.03 ~ 2018.12 & 2021.03 ~
-    + 서버 구축 ([프로젝트](https://blog.naver.com/makeflood/222768942474))
+    + 서버 구축 [프로젝트](https://blog.naver.com/makeflood/222768942474)
     + 스케줄링 시스템 구현 프로젝트
         + C : FCFS, SJF, RR
     + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
     + C언어 개념서 제작 ([Make "C" pdf](https://blog.naver.com/makeflood/222764232015))
-        + 교재를 통한 ([스터디](https://blog.naver.com/makeflood/222768744611)) 강의 진행
+        + 교재를 통한 [스터디](https://blog.naver.com/makeflood/222768744611) 강의 진행
 
     
 
