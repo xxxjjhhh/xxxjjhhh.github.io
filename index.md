@@ -35,8 +35,8 @@
 기술
 ---
 + 언어 : C/C++, Java
-+ 스크립트 : Python, zsh, Html/CSS, Javascript
-+ 서버스크립트 : Express.js(Node)
++ 스크립트 : Python, zsh, Javascript
++ 서버스크립트 : Node.js(Express)
 + 데이터 : 
 + 버전관리 : Git
 + 기타 : Markdown
