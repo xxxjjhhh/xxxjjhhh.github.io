@@ -22,7 +22,7 @@
 ---
  
 + 전북대학교 2018.03 ~ 2018.12 & 2021.03 ~
-    + API 서버 구축 [프로젝트](https://blog.naver.com/makeflood/222768942474)
+    + 웹 서버 구축 [프로젝트](https://blog.naver.com/makeflood/222768942474)
         + aws 서비스 활용
     + 스케줄링 시스템 구현 프로젝트
         + C : FCFS, SJF, RR
