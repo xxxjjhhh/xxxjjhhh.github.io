@@ -39,7 +39,7 @@
 + 서버스크립트 : Node.js(Express)
 + 데이터 : 
 + 버전관리 : Git
-+ 기타 : Markdown
++ 기타 : npm
 
 
 상벌/교육
