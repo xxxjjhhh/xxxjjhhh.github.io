@@ -38,8 +38,7 @@
 + 스크립트 : Python, zsh, Javascript
 + 서버스크립트 : Node.js(Express)
 + 데이터 : 
-+ 버전관리 : Git
-+ 기타 : npm
++ 기타 : Git, npm
 
 
 상벌/교육
