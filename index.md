@@ -23,7 +23,7 @@
  
 + 전북대학교 (2018.03 ~ 2018.12 & 2021.03 ~)
     + 웹 서버 구축 [프로젝트](https://blog.naver.com/makeflood/222768942474)
-        + AWS 서비스 활용 (EC2)
+        + AWS 서비스 활용 (VPC, EC2)
         + Linux Ubuntu 22.04
     + 스케줄링 시스템 구현 프로젝트
         + C : FCFS, SJF, RR
