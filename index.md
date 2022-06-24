@@ -25,6 +25,7 @@
     + 웹 서버 구축 [프로젝트](https://blog.naver.com/makeflood/222768942474)
         + AWS 서비스 활용 (VPC, EC2)
         + Linux Ubuntu 22.04
+        + Node.js
     + 스케줄링 시스템 구현 프로젝트
         + C : FCFS, SJF, RR
     + 전공 블로그 운영 ([Make Brain](https://blog.naver.com/makeflood))
