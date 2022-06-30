@@ -50,7 +50,7 @@
 + 한국기술교육대학교 온라인평생교육원
     + C/C++ 프로그래밍 ([수료](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/resume/asset/2.jpg))
     + 리눅스 입문 ([수료](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/resume/asset/3.png))
-    + 파이썬을 통한 데이터 수집 
+    + 파이썬을 통한 데이터 처리 ([수료](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/resume/asset/4.png))
     
 
 학력
