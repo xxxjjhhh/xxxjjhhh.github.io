@@ -27,6 +27,7 @@
         + ELB를 통한 10대의 t2.nano 사양의 인스턴스를 로드밸런싱
         + Linux Ubuntu 22.04
         + Node.js, pm2
+        + Jmeter를 활용한 서버 부하 
     + 스케줄링 시스템 구현 프로젝트
         + C : FCFS, SJF, RR
     + C언어 개념서 제작 ([Make "C" pdf](https://blog.naver.com/makeflood/222764232015))
