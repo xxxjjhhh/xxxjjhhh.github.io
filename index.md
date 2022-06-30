@@ -24,7 +24,7 @@
 + 전북대학교 - 학부 (2018.03 ~ 2018.12 & 2021.03 ~)
     + off-premise 웹 서버 구축 [프로젝트](https://blog.naver.com/makeflood/222768942474)
         + AWS 서비스 활용 (VPC, EC2, AMI, S3, ELB)
-        + ELB를 통한 
+        + ELB를 통한 10대의 t2.nano 사양의 인스턴스를 로드밸런싱
         + Linux Ubuntu 22.04
         + Node.js, pm2
     + 스케줄링 시스템 구현 프로젝트
