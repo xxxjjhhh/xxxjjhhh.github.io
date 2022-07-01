@@ -23,8 +23,8 @@
  
 + 전북대학교 - 학부 (2018.03 ~ 2018.12 & 2021.03 ~)
     + off-premise 웹 서버 구축 [프로젝트](https://blog.naver.com/makeflood/222768942474)
-        + AWS 서비스 활용 (VPC, EC2, AMI, S3, ELB)
-        + ELB를 통한 5대의 인스턴스를 로드밸런싱
+        + AWS 활용 (VPC, EC2, AMI, S3, ELB, Route53)
+        + ELB를 통한 5대의 인스턴스를 로드밸런싱 후 단일 인스턴스와 성능 비교
         + Linux Ubuntu 22.04
         + Node.js, pm2
         + Jmeter를 활용한 서버 부하 테스트
