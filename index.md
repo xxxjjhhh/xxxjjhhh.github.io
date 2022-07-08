@@ -28,7 +28,7 @@
         + Linux Ubuntu 22.04
         + Node.js, pm2, MySQL
         + Jmeter를 활용한 서버 부하 테스트
-    + 스케줄링 시스템 구현 프로젝트
+    + CPU 스케줄링 시스템 구현 프로젝트
         + C : FCFS, SJF, RR
     + C언어 개념서 제작 ([Make "C" pdf](https://blog.naver.com/makeflood/222764232015))
         + 교재를 통한 [스터디](https://blog.naver.com/makeflood/222768744611) 강의 진행
@@ -48,7 +48,7 @@
 상벌/교육
 ---
 + 전북대학교
-    + 전자공학부 공모전 ([수상](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/resume/asset/1.JPG))
+    + 전자공학부 학습 공모전 ([수상](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/resume/asset/1.JPG))
 + 한국기술교육대학교 온라인평생교육원
     + C/C++ 프로그래밍 ([수료](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/resume/asset/2.jpg))
     + 리눅스 입문 ([수료](https://github.com/xxxjjhhh/xxxjjhhh.github.io/blob/main/resume/asset/3.png))
