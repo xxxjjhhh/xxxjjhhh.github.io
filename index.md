@@ -41,7 +41,7 @@
 + 언어 : C/C++, Java
 + 스크립트 : Python, zsh, Javascript
 + 서버스크립트 : Node.js(Express)
-+ 데이터 : 
++ 데이터 : MySQL
 + 기타 : AWS, Git, npm
 
 
