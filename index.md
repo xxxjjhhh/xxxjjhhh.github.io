@@ -22,14 +22,14 @@
 ---
  
 + 전북대학교 - 학부 (2018.03 ~ 2018.12 & 2021.03 ~)
-    + 쿠버네티스를 통한 도커 컨테이너 오케스트레이션 [프로젝트](https://blog.naver.com/makeflood/222819874721)
-    + off-premise 웹 서버 구축 [프로젝트](https://blog.naver.com/makeflood/222768942474)
+    + 쿠버네티스를 통한 도커 컨테이너 오케스트레이션 [개인프로젝트](https://blog.naver.com/makeflood/222819874721)
+    + off-premise 웹 서버 구축 [개인프로젝트](https://blog.naver.com/makeflood/222768942474)
         + AWS 활용 (VPC, EC2, AMI, S3, ELB, Route53, RDS)
         + ELB를 통한 5대의 인스턴스를 로드밸런싱 후 단일 인스턴스와 성능 비교
         + Linux Ubuntu 22.04
         + Node.js, pm2, MySQL
         + Jmeter를 활용한 서버 부하 테스트
-    + CPU 스케줄링 시스템 구현 프로젝트
+    + CPU 스케줄링 시스템 구현 개인프로젝트
         + C : FCFS, SJF, RR
     + C언어 개념서 제작 ([Make "C" pdf](https://blog.naver.com/makeflood/222764232015))
         + 교재를 통한 [스터디](https://blog.naver.com/makeflood/222768744611) 강의 진행
