@@ -23,6 +23,7 @@
  
 + 전북대학교 - 학부 (2018.03 ~ 2018.12 & 2021.03 ~)
     + 쿠버네티스를 통한 도커 컨테이너 오케스트레이션 [개인프로젝트](https://blog.naver.com/makeflood/222819874721)
+        + docker
         + AWS EC2 (Linux Ubuntu 22.04) 환경 사용
     + off-premise 웹 서버 구축 [개인프로젝트](https://blog.naver.com/makeflood/222768942474)
         + AWS 활용 (VPC, EC2, AMI, S3, ELB, Route53, RDS)
