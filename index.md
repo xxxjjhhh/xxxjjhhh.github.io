@@ -29,7 +29,7 @@
         + AWS 활용 (VPC, EC2, AMI, S3, ELB, Route53, RDS)
         + ELB를 통한 5대의 인스턴스를 로드밸런싱 후 단일 인스턴스와 성능 비교
         + Linux Ubuntu 22.04
-        + Node.js, pm2, MySQL
+        + Node.js, express, pm2, MySQL
         + Jmeter를 활용한 서버 부하 테스트
     + CPU 스케줄링 시스템 구현 개인프로젝트
         + C : FCFS, SJF, RR
