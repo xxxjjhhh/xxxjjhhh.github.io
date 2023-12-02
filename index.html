@@ -1,11 +1,45 @@
+#https://www.youtube.com/watch?v=2gibDJxRFH4
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>학번2QR | xxxjjhhh</title>
+    <style>
+        body {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .box1 {
+            border: 2px solid black;
+            padding: 10px;
+            height: 160px;
+            width: 160px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .input-text {
+            padding: 10px;
+        }
+    </style>
 </head>
 <body>
-  hi
-    <hr>
+    <div class="box1">
+        <img src="" alt="" id="img">
+    </div>
+    <div class="input-text">
+        <input type="text" id="qr-text">
+        <button onclick="makeQr()">생성</button>
+    </div>
+    <script>
+        function makeQr() {
+
+            let txt = document.getElementById('qr-text').value;
+            document.getElementById('img').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${txt}`
+        }
+    </script>
 </body>
 </html>
