@@ -31,14 +31,14 @@
         <img src="" alt="" id="img">
     </div>
     <div class="input-text">
-        <input type="text" id="qr-text">
-        <button onclick="makeQr()">생성</button>
+        <input type="text" id="qr-text" placeholder="학번을 입력해 주세요">
+        <button onclick="makeQr()">QR 생성</button>
     </div>
     <script>
         function makeQr() {
 
             let txt = document.getElementById('qr-text').value;
-            document.getElementById('img').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${txt}`
+            document.getElementById('img').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${txt}`
         }
     </script>
 </body>
