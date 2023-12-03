@@ -7,17 +7,20 @@
     <script src="/qr.js"></script>
 </head>
 <body>
+    <div class="input-text">
+        <input type="text" id="qr-text1" placeholder="학번을 입력해 주세요">
+        <input type="text" id="qr-text2" placeholder="학번을 입력해 주세요">
+        <input type="text" id="qr-text3" placeholder="학번을 입력해 주세요">
+        <input type="text" id="qr-text4" placeholder="학번을 입력해 주세요">
+        <button onclick="makeQr()">QR 생성</button>
+    </div>
     <div class="box1">
         <img src="" alt="" id="img">
-    </div>
-    <div class="input-text">
-        <input type="text" id="qr-text" placeholder="학번을 입력해 주세요">
-        <button onclick="makeQr()">QR 생성</button>
     </div>
     <script>
         function makeQr() {
 
-            let txt = document.getElementById('qr-text').value;
+            let txt = document.getElementById('qr-text1').value;
             document.getElementById('img').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${txt}`
         }
     </script>
