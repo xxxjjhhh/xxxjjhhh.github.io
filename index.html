@@ -36,8 +36,22 @@
             let stnum3 = document.getElementById('qr-text3').value;
             let stnum4 = document.getElementById('qr-text4').value;
 
-            
-            document.getElementById('img1').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum1}`
+            if (stnum1.length != 0) {
+
+                document.getElementById('img1').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum1}`
+            }
+            if (stnum2.length != 0) {
+
+                document.getElementById('img2').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum2}`
+            }
+            if (stnum3.length != 0) {
+
+                document.getElementById('img3').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum3}`
+            }
+            if (stnum4.length != 0) {
+
+                document.getElementById('img4').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum4}`
+            }
         }
     </script>
 </body>
