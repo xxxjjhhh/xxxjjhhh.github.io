@@ -7,6 +7,7 @@
 }
 
 body {
+    font-family: 'NanumBarunGothic';
     display: flex;
     align-items: center;
     justify-content: center;
