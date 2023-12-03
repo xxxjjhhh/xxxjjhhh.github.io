@@ -31,6 +31,11 @@
         <img src="" alt="" id="img4">
     </div>
     <script>
+        function apiCall(stnum) {
+
+            return `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum}`
+        }
+        
         function makeQr() {
 
             let stnum1 = document.getElementById('qr-text1').value;
@@ -40,19 +45,19 @@
 
             if (stnum1.length != 0) {
 
-                document.getElementById('img1').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum1}`
+                document.getElementById('img1').src = apiCall(stnum1);
             }
             if (stnum2.length != 0) {
 
-                document.getElementById('img2').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum2}`
+                document.getElementById('img2').src = apiCall(stnum2);
             }
             if (stnum3.length != 0) {
 
-                document.getElementById('img3').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum3}`
+                document.getElementById('img3').src = apiCall(stnum3);
             }
             if (stnum4.length != 0) {
 
-                document.getElementById('img4').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum4}`
+                document.getElementById('img4').src = apiCall(stnum4);
             }
         }
     </script>
