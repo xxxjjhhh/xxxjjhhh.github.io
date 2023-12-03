@@ -32,6 +32,11 @@
         function makeQr() {
 
             let stnum1 = document.getElementById('qr-text1').value;
+            let stnum2 = document.getElementById('qr-text2').value;
+            let stnum3 = document.getElementById('qr-text3').value;
+            let stnum4 = document.getElementById('qr-text4').value;
+
+            
             document.getElementById('img1').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum1}`
         }
     </script>
