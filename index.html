@@ -15,16 +15,16 @@
         <button onclick="makeQr()">QR 생성</button>
     </div>
     <div class="qrBox">
-        <img src="" alt="" id="img"><br>
-        <img src="" alt="" id="img"><br>
-        <img src="" alt="" id="img"><br>
-        <img src="" alt="" id="img"><br>
+        <img src="" alt="" id="img1">
+    </div>
+        <div class="qrBox">
+        <img src="" alt="" id="img2">
     </div>
     <script>
         function makeQr() {
 
             let stnum1 = document.getElementById('qr-text1').value;
-            document.getElementById('img').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum1}`
+            document.getElementById('img1').src = `https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=a${stnum1}`
         }
     </script>
 </body>
